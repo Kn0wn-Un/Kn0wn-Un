@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Darshan
 
 <!--
 **Kn0wn-Un/Kn0wn-Un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### ⚙️ My GitHub overview
+
+![My overview](https://github.com/Kn0wn-Un/my-stats/blob/master/generated/overview.svg?raw=true)
+
+
+![Languages Used](https://github.com/Kn0wn-Un/my-stats/blob/master/generated/languages.svg?raw=true)
+
+
+Find this cool github stats [here](https://github.com/jstrieb/github-stats)
