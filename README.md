@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 ### ⚙️ My GitHub overview
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 
 
 Find this cool github stats [here](https://github.com/jstrieb/github-stats)
+-->
